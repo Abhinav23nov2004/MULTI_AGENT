@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+langgraph
+tavily-python
+beautifulsoup4
+requests
+python-dotenv
+rich
+flask
+gunicorn
